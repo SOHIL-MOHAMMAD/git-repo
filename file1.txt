@@ -2,3 +2,5 @@ this is new file
 
 another filegit log
 sdfsfsdfsfsfsdf
+
+this is another text
