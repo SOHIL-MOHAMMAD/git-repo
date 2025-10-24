@@ -1,5 +1,11 @@
 this is file 2
+<<<<<<< HEAD
 
 print("hello world")
 
 this is feature 2
+=======
+bugfix success
+print("hello world")
+>>>>>>> main
+new bugfix2
